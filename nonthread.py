@@ -13,7 +13,7 @@ def main():
     print(f"Number of files to compress: {len(files)}")
 
     # Iterate over files in the input directory
-    for i, filename in enumerate(files):
+    for i, filename in enumerate(files, start=1):
         prefix = f"File {i}/{len(files)}: "
         file_path = os.path.join(input_dir, filename)
         file_size_in_MB = os.path.getsize(file_path) / (1024 * 1024)

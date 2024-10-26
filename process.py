@@ -1,3 +1,4 @@
+from concurrent.futures import ProcessPoolExecutor
 import multiprocessing
 from task import compress_file
 import os
@@ -24,21 +25,23 @@ def main():
 
     files = os.listdir(input_dir)
     nFiles = len(files)
+    nCpus = multiprocessing.cpu_count()
     print(f"Number of files to compress: {nFiles}")
+    print(f"Number of CPUs: {nCpus}")
 
-    processes = []
-    # Iterate over files in the input directory
-    for i, filename in enumerate(files):
-        prefix = f"File {i}/{nFiles}: "
-        file_path = os.path.join(input_dir, filename)
+    with ProcessPoolExecutor(max_workers=nCpus) as executor:
+        futures = []
+        # Iterate over files in the input directory
+        for i, filename in enumerate(files, start=1):
+            prefix = f"File {i}/{nFiles}: "
+            file_path = os.path.join(input_dir, filename)
 
-        process = multiprocessing.Process(target=worker, args=(file_path, prefix))
-        processes.append(process)
-        process.start()
-    
-    # Wait for all threads to complete
-    for process in processes:
-        process.join()
+            future = executor.submit(worker, file_path, prefix)
+            futures.append(future)
+        
+        # Wait for all futures to complete
+        for future in futures:
+            future.result()
 
     print("All workers have finished")
 

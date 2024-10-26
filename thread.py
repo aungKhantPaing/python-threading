@@ -1,4 +1,4 @@
-import threading
+from concurrent.futures import ThreadPoolExecutor
 from task import compress_file
 import os
 from time import time
@@ -26,19 +26,19 @@ def main():
     nFiles = len(files)
     print(f"Number of files to compress: {nFiles}")
 
-    threads = []
-    # Iterate over files in the input directory
-    for i, filename in enumerate(files):
-        prefix = f"File {i}/{nFiles}: "
-        file_path = os.path.join(input_dir, filename)
+    with ThreadPoolExecutor(max_workers=nFiles) as executor:
+        futures = []
+        # Iterate over files in the input directory
+        for i, filename in enumerate(files, start=1):
+            prefix = f"File {i}/{nFiles}: "
+            file_path = os.path.join(input_dir, filename)
 
-        thread = threading.Thread(target=worker, args=(file_path, prefix))
-        threads.append(thread)
-        thread.start()
-    
-    # Wait for all threads to complete
-    for thread in threads:
-        thread.join()
+            future = executor.submit(worker, file_path, prefix)
+            futures.append(future)
+        
+        # Wait for all futures to complete
+        for future in futures:
+            future.result()
 
     print("All workers have finished")
 
