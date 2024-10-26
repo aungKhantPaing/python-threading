@@ -1,0 +1,151 @@
+
+~/projects/python-threading via 🐍 v3.12.1 
+❯ python nonthread.py
+Number of files to compress: 72
+File 0/72: Compressing (27.74 MB) data/uncompressed/zimgit-knots_en_2022-03.zim
+File 0/72: Compression completed - Time taken: 1.37s
+File 1/72: Compressing (38.46 MB) data/uncompressed/Rive.dmg
+File 1/72: Compression completed - Time taken: 1.26s
+File 2/72: Compressing (14.77 MB) data/uncompressed/WallabyJs.quokka-vscode-1.0.504.vsix
+File 2/72: Compression completed - Time taken: 0.50s
+File 3/72: Compressing (16.65 MB) data/uncompressed/The Rust Programming Language.pdf
+File 3/72: Compression completed - Time taken: 1.37s
+File 4/72: Compressing (39.50 MB) data/uncompressed/duckduckgo.dmg
+File 4/72: Compression completed - Time taken: 1.29s
+File 5/72: Compressing (17.07 MB) data/uncompressed/Pasted Graphic.tiff
+File 5/72: Compression completed - Time taken: 1.15s
+File 6/72: Compressing (12.21 MB) data/uncompressed/Special_Forces_Guerrilla_Warfare_Manual_by_Wimberley_Scott_z_lib.pdf
+File 6/72: Compression completed - Time taken: 0.95s
+File 7/72: Compressing (29.22 MB) data/uncompressed/Computer Organization and Design edition5.pdf
+File 7/72: Compression completed - Time taken: 1.02s
+File 8/72: Compressing (18.65 MB) data/uncompressed/nga_bill_sy.apk
+File 8/72: Compression completed - Time taken: 0.67s
+File 9/72: Compressing (43.84 MB) data/uncompressed/Designing Interactive Systems A Comprehensive Guide to HCI, UX and Interaction Design.pdf
+File 9/72: Compression completed - Time taken: 1.55s
+File 10/72: Compressing (77.07 MB) data/uncompressed/vi.stackexchange.com_en_all_2022-11.zim
+File 10/72: Compression completed - Time taken: 6.62s
+File 11/72: Compressing (19.03 MB) data/uncompressed/TurboVPN_setup (2).exe
+File 11/72: Compression completed - Time taken: 0.59s
+File 12/72: Compressing (21.87 MB) data/uncompressed/open_9CzMvaEq.pdf
+File 12/72: Compression completed - Time taken: 0.94s
+File 13/72: Compressing (10.07 MB) data/uncompressed/cmake-3.25.1.tar.gz
+File 13/72: Compression completed - Time taken: 0.33s
+File 14/72: Compressing (17.20 MB) data/uncompressed/Introduction to Algorithms_ A Creative Approach [Manber 1989-01-11].pdf
+File 14/72: Compression completed - Time taken: 0.91s
+File 15/72: Compressing (1114.55 MB) data/uncompressed/telegram-cloud-document-5-6078084644664773802
+File 15/72: Compression completed - Time taken: 39.16s
+File 16/72: Compressing (33.40 MB) data/uncompressed/Gon copy 2.pdf
+File 16/72: Compression completed - Time taken: 1.10s
+File 17/72: Compressing (25.52 MB) data/uncompressed/twitter-2022-11-21-040ec70be335c1735f14701090a09e0c0ee575db8a2b0a7bf7cb9370d3b4437e.zip
+File 17/72: Compression completed - Time taken: 0.88s
+File 18/72: Compressing (92.39 MB) data/uncompressed/kiwix-hotspot-macos-2.4.11.dmg
+File 18/72: Compression completed - Time taken: 3.10s
+File 19/72: Compressing (38.11 MB) data/uncompressed/Windscribe_2.7.14.dmg
+File 19/72: Compression completed - Time taken: 1.32s
+File 20/72: Compressing (10.11 MB) data/uncompressed/Paper is Book Skin.zip
+File 20/72: Compression completed - Time taken: 0.35s
+File 21/72: Compressing (27.87 MB) data/uncompressed/FinTracker slides.pptx
+File 21/72: Compression completed - Time taken: 1.10s
+File 22/72: Compressing (46.06 MB) data/uncompressed/ChatGPT Desktop latest.dmg
+File 22/72: Compression completed - Time taken: 1.60s
+File 23/72: Compressing (11.69 MB) data/uncompressed/introduction-to-algorithms-4th-edition.pdf
+File 23/72: Compression completed - Time taken: 0.45s
+File 24/72: Compressing (27.99 MB) data/uncompressed/Cloudflare_WARP (1).zip
+File 24/72: Compression completed - Time taken: 0.96s
+File 25/72: Compressing (13.13 MB) data/uncompressed/deleted-jobSkills-screenshots.zip
+File 25/72: Compression completed - Time taken: 0.43s
+File 26/72: Compressing (27.18 MB) data/uncompressed/WeVPN-Installer.dmg
+File 26/72: Compression completed - Time taken: 1.01s
+File 27/72: Compressing (145.09 MB) data/uncompressed/Major_H_von_Dach_Bern_Total_Resistance_Swiss_Army_Guide_to_Guerrilla.pdf
+File 27/72: Compression completed - Time taken: 33.88s
+File 28/72: Compressing (59.76 MB) data/uncompressed/JDownloader2Setup_macos-universal_v17_0_4_1.dmg
+File 28/72: Compression completed - Time taken: 2.14s
+File 29/72: Compressing (37.37 MB) data/uncompressed/jobdoh_db_20230914.zip
+File 29/72: Compression completed - Time taken: 1.31s
+File 30/72: Compressing (12.55 MB) data/uncompressed/retro galaxy (dark).jpeg
+File 30/72: Compression completed - Time taken: 0.42s
+File 31/72: Compressing (10.57 MB) data/uncompressed/Keychron K2 User Manual.pdf
+File 31/72: Compression completed - Time taken: 0.42s
+File 32/72: Compressing (28.32 MB) data/uncompressed/v8-refs_heads_main.tar.gz
+File 32/72: Compression completed - Time taken: 0.91s
+File 33/72: Compressing (67.60 MB) data/uncompressed/Guarda-1.0.20.dmg
+File 33/72: Compression completed - Time taken: 2.20s
+File 34/72: Compressing (55.30 MB) data/uncompressed/public-archivedwl-23.zip
+File 34/72: Compression completed - Time taken: 1.74s
+File 35/72: Compressing (70.86 MB) data/uncompressed/messari-report-crypto-theses-for-2023.pdf
+File 35/72: Compression completed - Time taken: 2.38s
+File 36/72: Compressing (10.32 MB) data/uncompressed/Wholesome Memes CW1.pdf
+File 36/72: Compression completed - Time taken: 0.35s
+File 37/72: Compressing (10.72 MB) data/uncompressed/aungKhantPaing's GitHubUnwrapped.mp4
+File 37/72: Compression completed - Time taken: 0.37s
+File 38/72: Compressing (38.02 MB) data/uncompressed/Interaction Design Beyond Human-Computer Interaction 6ED - Wiley 2023.pdf
+File 38/72: Compression completed - Time taken: 1.32s
+File 39/72: Compressing (34.42 MB) data/uncompressed/2022-07-26.zip
+File 39/72: Compression completed - Time taken: 1.41s
+File 40/72: Compressing (11.64 MB) data/uncompressed/Vanced.microG_0.2.24.220220.apk
+File 40/72: Compression completed - Time taken: 0.55s
+File 41/72: Compressing (16.29 MB) data/uncompressed/dashcore-20.0.3-x86_64-apple-darwin.dmg
+File 41/72: Compression completed - Time taken: 0.53s
+File 42/72: Compressing (17.83 MB) data/uncompressed/ProtonVPN_win_v1.20.4.exe
+File 42/72: Compression completed - Time taken: 0.90s
+File 43/72: Compressing (29.16 MB) data/uncompressed/ProtonVPN-2.6.91.0.apk
+File 43/72: Compression completed - Time taken: 1.28s
+File 44/72: Compressing (13.88 MB) data/uncompressed/rhu9ae86spr61.jpeg
+File 44/72: Compression completed - Time taken: 0.52s
+File 45/72: Compressing (46.80 MB) data/uncompressed/electrum-4.4.6.dmg
+File 45/72: Compression completed - Time taken: 1.59s
+File 46/72: Compressing (11.37 MB) data/uncompressed/plantuml.jar
+File 46/72: Compression completed - Time taken: 0.42s
+File 47/72: Compressing (85.49 MB) data/uncompressed/WebTorrent-v0.24.0.dmg
+File 47/72: Compression completed - Time taken: 2.74s
+File 48/72: Compressing (26.44 MB) data/uncompressed/ipfs-cluster-follow_v1.0.6_darwin-amd64.tar.gz
+File 48/72: Compression completed - Time taken: 0.91s
+File 49/72: Compressing (18.45 MB) data/uncompressed/PAPERISBOOKSKIN.psd
+File 49/72: Compression completed - Time taken: 1.46s
+File 50/72: Compressing (24.14 MB) data/uncompressed/20039.apk
+File 50/72: Compression completed - Time taken: 0.94s
+File 51/72: Compressing (41.00 MB) data/uncompressed/MangaZone_6.5.5.apk
+File 51/72: Compression completed - Time taken: 1.73s
+File 52/72: Compressing (48.23 MB) data/uncompressed/Electrum 4.5.3.dmg
+File 52/72: Compression completed - Time taken: 1.63s
+File 53/72: Compressing (46.44 MB) data/uncompressed/electrum-4.3.4.dmg
+File 53/72: Compression completed - Time taken: 1.53s
+File 54/72: Compressing (87.96 MB) data/uncompressed/min-v1.26.0-mac-x86.zip
+File 54/72: Compression completed - Time taken: 3.12s
+File 55/72: Compressing (47.47 MB) data/uncompressed/wiktionary_en_simple_all_maxi_2023-01.zim
+File 55/72: Compression completed - Time taken: 5.50s
+File 56/72: Compressing (52.65 MB) data/uncompressed/10000000_1079753245501455_3231552145337614336_n.zip
+File 56/72: Compression completed - Time taken: 2.11s
+File 57/72: Compressing (20.30 MB) data/uncompressed/Export-5182f7e8-651d-411c-8733-007a127d6cf7.zip
+File 57/72: Compression completed - Time taken: 2.31s
+File 58/72: Compressing (18.08 MB) data/uncompressed/PotatoVPN_1.1_532_8b5f5199_2021-03-03-01-06-42.dmg
+File 58/72: Compression completed - Time taken: 0.76s
+File 59/72: Compressing (15.74 MB) data/uncompressed/pic.jpg
+File 59/72: Compression completed - Time taken: 2.38s
+File 60/72: Compressing (76.11 MB) data/uncompressed/StremioService.dmg
+File 60/72: Compression completed - Time taken: 2.99s
+File 61/72: Compressing (31.73 MB) data/uncompressed/Windscribe_2.6.14.dmg
+File 61/72: Compression completed - Time taken: 1.11s
+File 62/72: Compressing (69.96 MB) data/uncompressed/Narasimha Karumanchi-Data Structure and Algorithmic Thinking with Python  Data Structure and Algorithmic Puzzles-Careermonk Publications (2016).pdf
+File 62/72: Compression completed - Time taken: 3.38s
+File 63/72: Compressing (70.13 MB) data/uncompressed/All-in-One Messenger 2.5.0.dmg
+File 63/72: Compression completed - Time taken: 2.41s
+File 64/72: Compressing (12.67 MB) data/uncompressed/retro galaxy (light).jpeg
+File 64/72: Compression completed - Time taken: 0.41s
+File 65/72: Compressing (22.84 MB) data/uncompressed/Windscribe.dmg
+File 65/72: Compression completed - Time taken: 0.74s
+File 66/72: Compressing (28.32 MB) data/uncompressed/Cloudflare_WARP.pkg
+File 66/72: Compression completed - Time taken: 0.97s
+File 67/72: Compressing (16.12 MB) data/uncompressed/Windscribe.exe
+File 67/72: Compression completed - Time taken: 0.56s
+File 68/72: Compressing (12.85 MB) data/uncompressed/1.png
+File 68/72: Compression completed - Time taken: 0.56s
+File 69/72: Compressing (11.46 MB) data/uncompressed/image.png
+File 69/72: Compression completed - Time taken: 0.38s
+File 70/72: Compressing (65.68 MB) data/uncompressed/phet_en_2023-01.zim
+File 70/72: Compression completed - Time taken: 2.30s
+File 71/72: Compressing (9.93 MB) data/uncompressed/v8-refs_heads_main-src.tar.gz
+File 71/72: Compression completed - Time taken: 0.33s
+
+~/projects/python-threading via 🐍 v3.12.1 took 2m50s 
+❯ 
