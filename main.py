@@ -6,7 +6,7 @@ from statistics import mean, stdev
 from parallel import process_parallel
 from sequential import process_sequential
 
-def run_benchmark(input_dir, num_runs=3):
+def run_benchmark(input_dir, num_runs=1):
     """Run multiple benchmark tests and collect results."""
     # os.makedirs(output_dir, exist_ok=True)
     
@@ -104,15 +104,17 @@ def generate_report(benchmark_results):
 def main():
     parser = argparse.ArgumentParser(description="Benchmarking script for sequential and parallel processing.")
     parser.add_argument('input_dir', type=str, help='Directory containing input files')
+    parser.add_argument('--num_runs', type=int, default=1, help='Number of runs for benchmarking (default: 3)')
     # parser.add_argument('output_dir', type=str, help='Directory to save output files')
     
     args = parser.parse_args()
     
     input_dir = args.input_dir
+    num_runs = args.num_runs
     # output_dir = args.output_dir
     
     print("Starting benchmark tests...")
-    results = run_benchmark(input_dir, num_runs=3)
+    results = run_benchmark(input_dir, num_runs=num_runs)
     
     print("\nGenerating performance report...")
     stats, speedups = generate_report(results)
