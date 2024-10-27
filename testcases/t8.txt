@@ -1,0 +1,1048 @@
+Parallel(8) - File 62/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 66/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 94
+Parallel(8) - File 63/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 67/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 60
+Parallel(8) - File 64/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 68/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 2
+Parallel(8) - File 65/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 66/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 69/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 5
+Parallel(8) - File 70/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 32
+Parallel(8) - File 68/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 67/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 71/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 35
+Parallel(8) - File 72/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License 2.html
+Parallel(8) - File 69/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 73/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 61
+Parallel(8) - File 70/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 74/113: Compressing (0.02 MB) data_sm_multi/uncompressed/LICENSE 95
+Parallel(8) - File 72/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 75/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 59
+Parallel(8) - File 71/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 74/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 77/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 66
+Parallel(8) - File 73/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 76/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 92
+Parallel(8) - File 78/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 50
+Parallel(8) - File 75/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 79/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 68
+Parallel(8) - File 77/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 80/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 57
+Parallel(8) - File 47/113: Compression completed - Time taken: 0.32s
+Parallel(8) - File 81/113: Compressing (2.39 MB) data_sm_multi/uncompressed/readme.txt
+Parallel(8) - File 76/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 82/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 75
+Parallel(8) - File 78/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 83/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 81
+Parallel(8) - File 79/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 84/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License.html
+Parallel(8) - File 18/113: Compression completed - Time taken: 0.56s
+Parallel(8) - File 85/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 86
+Parallel(8) - File 80/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 84/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 86/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 72
+Parallel(8) - File 87/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE copy.html
+Parallel(8) - File 82/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 88/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 44
+Parallel(8) - File 83/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 89/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 43
+Parallel(8) - File 85/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 90/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 88
+Parallel(8) - File 87/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 86/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 91/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 28
+Parallel(8) - File 92/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 17
+Parallel(8) - File 88/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 93/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 10
+Parallel(8) - File 89/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 94/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 19
+Parallel(8) - File 90/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 91/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 95/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 26
+Parallel(8) - File 43/113: Compression completed - Time taken: 0.47s
+Parallel(8) - File 96/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 21
+Parallel(8) - File 97/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 42
+Parallel(8) - File 92/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 98/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 89
+Parallel(8) - File 93/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 99/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 45
+Parallel(8) - File 94/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 100/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 73
+Parallel(8) - File 96/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 95/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 101/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 87
+Parallel(8) - File 97/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 102/113: Compressing (7.59 MB) data_sm_multi/uncompressed/BidiTest.txt
+Parallel(8) - File 103/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE.txt
+Parallel(8) - File 98/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 99/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 104/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 80
+Parallel(8) - File 105/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 74
+Parallel(8) - File 81/113: Compression completed - Time taken: 0.18s
+Parallel(8) - File 100/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 107/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 18
+Parallel(8) - File 106/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 20
+Parallel(8) - File 101/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 103/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 108/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 27
+Parallel(8) - File 105/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 110/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 29
+Parallel(8) - File 109/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 11
+Parallel(8) - File 104/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 111/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 16
+Parallel(8) - File 107/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 112/113: Compressing (11.05 MB) data_sm_multi/uncompressed/mapping.txt
+Parallel(8) - File 106/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 55/113: Compression completed - Time taken: 0.50s
+Parallel(8) - File 113/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium copy.html
+Parallel(8) - File 110/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 111/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 109/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 108/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 112/113: Compression completed - Time taken: 0.11s
+Parallel(8) - File 113/113: Compression completed - Time taken: 0.13s
+Parallel(8) - File 102/113: Compression completed - Time taken: 0.24s
+
+Benchmark Run 3/3
+
+Running Sequential Processing...
+Sequential - File 1/113: Compressing (1.67 MB) data_sm_multi/uncompressed/LICENSES.chromium 3.html
+Sequential - File 1/113: Compression completed - Time taken: 0.07s
+Sequential - File 2/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 3.html
+Sequential - File 2/113: Compression completed - Time taken: 0.00s
+Sequential - File 3/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 52
+Sequential - File 3/113: Compression completed - Time taken: 0.00s
+Sequential - File 4/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 55
+Sequential - File 4/113: Compression completed - Time taken: 0.00s
+Sequential - File 5/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 63
+Sequential - File 5/113: Compression completed - Time taken: 0.00s
+Sequential - File 6/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 64
+Sequential - File 6/113: Compression completed - Time taken: 0.00s
+Sequential - File 7/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 90
+Sequential - File 7/113: Compression completed - Time taken: 0.00s
+Sequential - File 8/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 30
+Sequential - File 8/113: Compression completed - Time taken: 0.00s
+Sequential - File 9/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 37
+Sequential - File 9/113: Compression completed - Time taken: 0.00s
+Sequential - File 10/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 9
+Sequential - File 10/113: Compression completed - Time taken: 0.00s
+Sequential - File 11/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 7
+Sequential - File 11/113: Compression completed - Time taken: 0.00s
+Sequential - File 12/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 39
+Sequential - File 12/113: Compression completed - Time taken: 0.00s
+Sequential - File 13/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 2.html
+Sequential - File 13/113: Compression completed - Time taken: 0.00s
+Sequential - File 14/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE
+Sequential - File 14/113: Compression completed - Time taken: 0.00s
+Sequential - File 15/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 91
+Sequential - File 15/113: Compression completed - Time taken: 0.00s
+Sequential - File 16/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 65
+Sequential - File 16/113: Compression completed - Time taken: 0.00s
+Sequential - File 17/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 62
+Sequential - File 17/113: Compression completed - Time taken: 0.00s
+Sequential - File 18/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium 2.html
+Sequential - File 18/113: Compression completed - Time taken: 0.22s
+Sequential - File 19/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 54
+Sequential - File 19/113: Compression completed - Time taken: 0.00s
+Sequential - File 20/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 53
+Sequential - File 20/113: Compression completed - Time taken: 0.00s
+Sequential - File 21/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 6
+Sequential - File 21/113: Compression completed - Time taken: 0.00s
+Sequential - File 22/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 38
+Sequential - File 22/113: Compression completed - Time taken: 0.00s
+Sequential - File 23/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 36
+Sequential - File 23/113: Compression completed - Time taken: 0.00s
+Sequential - File 24/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 8
+Sequential - File 24/113: Compression completed - Time taken: 0.00s
+Sequential - File 25/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 31
+Sequential - File 25/113: Compression completed - Time taken: 0.00s
+Sequential - File 26/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 13
+Sequential - File 26/113: Compression completed - Time taken: 0.00s
+Sequential - File 27/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 14
+Sequential - File 27/113: Compression completed - Time taken: 0.00s
+Sequential - File 28/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE.html
+Sequential - File 28/113: Compression completed - Time taken: 0.00s
+Sequential - File 29/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 22
+Sequential - File 29/113: Compression completed - Time taken: 0.00s
+Sequential - File 30/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 25
+Sequential - File 30/113: Compression completed - Time taken: 0.00s
+Sequential - File 31/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 85
+Sequential - File 31/113: Compression completed - Time taken: 0.00s
+Sequential - File 32/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 71
+Sequential - File 32/113: Compression completed - Time taken: 0.00s
+Sequential - File 33/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 76
+Sequential - File 33/113: Compression completed - Time taken: 0.00s
+Sequential - File 34/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 82
+Sequential - File 34/113: Compression completed - Time taken: 0.00s
+Sequential - File 35/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 49
+Sequential - File 35/113: Compression completed - Time taken: 0.00s
+Sequential - File 36/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 40
+Sequential - File 36/113: Compression completed - Time taken: 0.00s
+Sequential - File 37/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 47
+Sequential - File 37/113: Compression completed - Time taken: 0.00s
+Sequential - File 38/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License copy.html
+Sequential - File 38/113: Compression completed - Time taken: 0.00s
+Sequential - File 39/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 78
+Sequential - File 39/113: Compression completed - Time taken: 0.00s
+Sequential - File 40/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 24
+Sequential - File 40/113: Compression completed - Time taken: 0.00s
+Sequential - File 41/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 23
+Sequential - File 41/113: Compression completed - Time taken: 0.00s
+Sequential - File 42/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 15
+Sequential - File 42/113: Compression completed - Time taken: 0.00s
+Sequential - File 43/113: Compressing (6.55 MB) data_sm_multi/uncompressed/BidiCharacterTest.txt
+Sequential - File 43/113: Compression completed - Time taken: 1.13s
+Sequential - File 44/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 12
+Sequential - File 44/113: Compression completed - Time taken: 0.00s
+Sequential - File 45/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 46
+Sequential - File 45/113: Compression completed - Time taken: 0.00s
+Sequential - File 46/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 79
+Sequential - File 46/113: Compression completed - Time taken: 0.00s
+Sequential - File 47/113: Compressing (3.99 MB) data_sm_multi/uncompressed/cjdict.txt
+Sequential - File 47/113: Compression completed - Time taken: 0.82s
+Sequential - File 48/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 41
+Sequential - File 48/113: Compression completed - Time taken: 0.00s
+Sequential - File 49/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 83
+Sequential - File 49/113: Compression completed - Time taken: 0.00s
+Sequential - File 50/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 77
+Sequential - File 50/113: Compression completed - Time taken: 0.00s
+Sequential - File 51/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 48
+Sequential - File 51/113: Compression completed - Time taken: 0.00s
+Sequential - File 52/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 70
+Sequential - File 52/113: Compression completed - Time taken: 0.00s
+Sequential - File 53/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 84
+Sequential - File 53/113: Compression completed - Time taken: 0.00s
+Sequential - File 54/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 4.html
+Sequential - File 54/113: Compression completed - Time taken: 0.00s
+Sequential - File 55/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium.html
+Sequential - File 55/113: Compression completed - Time taken: 0.22s
+Sequential - File 56/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 34
+Sequential - File 56/113: Compression completed - Time taken: 0.00s
+Sequential - File 57/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 33
+Sequential - File 57/113: Compression completed - Time taken: 0.00s
+Sequential - File 58/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 4
+Sequential - File 58/113: Compression completed - Time taken: 0.00s
+Sequential - File 59/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 3
+Sequential - File 59/113: Compression completed - Time taken: 0.00s
+Sequential - File 60/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 69
+Sequential - File 60/113: Compression completed - Time taken: 0.00s
+Sequential - File 61/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 56
+Sequential - File 61/113: Compression completed - Time taken: 0.00s
+Sequential - File 62/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 51
+Sequential - File 62/113: Compression completed - Time taken: 0.00s
+Sequential - File 63/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 58
+Sequential - File 63/113: Compression completed - Time taken: 0.00s
+Sequential - File 64/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 67
+Sequential - File 64/113: Compression completed - Time taken: 0.00s
+Sequential - File 65/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 93
+Sequential - File 65/113: Compression completed - Time taken: 0.00s
+Sequential - File 66/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 94
+Sequential - File 66/113: Compression completed - Time taken: 0.00s
+Sequential - File 67/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 60
+Sequential - File 67/113: Compression completed - Time taken: 0.00s
+Sequential - File 68/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 2
+Sequential - File 68/113: Compression completed - Time taken: 0.00s
+Sequential - File 69/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 5
+Sequential - File 69/113: Compression completed - Time taken: 0.00s
+Sequential - File 70/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 32
+Sequential - File 70/113: Compression completed - Time taken: 0.00s
+Sequential - File 71/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 35
+Sequential - File 71/113: Compression completed - Time taken: 0.00s
+Sequential - File 72/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License 2.html
+Sequential - File 72/113: Compression completed - Time taken: 0.00s
+Sequential - File 73/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 61
+Sequential - File 73/113: Compression completed - Time taken: 0.00s
+Sequential - File 74/113: Compressing (0.02 MB) data_sm_multi/uncompressed/LICENSE 95
+Sequential - File 74/113: Compression completed - Time taken: 0.00s
+Sequential - File 75/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 59
+Sequential - File 75/113: Compression completed - Time taken: 0.00s
+Sequential - File 76/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 92
+Sequential - File 76/113: Compression completed - Time taken: 0.00s
+Sequential - File 77/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 66
+Sequential - File 77/113: Compression completed - Time taken: 0.00s
+Sequential - File 78/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 50
+Sequential - File 78/113: Compression completed - Time taken: 0.00s
+Sequential - File 79/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 68
+Sequential - File 79/113: Compression completed - Time taken: 0.00s
+Sequential - File 80/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 57
+Sequential - File 80/113: Compression completed - Time taken: 0.00s
+Sequential - File 81/113: Compressing (2.39 MB) data_sm_multi/uncompressed/readme.txt
+Sequential - File 81/113: Compression completed - Time taken: 0.23s
+Sequential - File 82/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 75
+Sequential - File 82/113: Compression completed - Time taken: 0.00s
+Sequential - File 83/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 81
+Sequential - File 83/113: Compression completed - Time taken: 0.00s
+Sequential - File 84/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License.html
+Sequential - File 84/113: Compression completed - Time taken: 0.00s
+Sequential - File 85/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 86
+Sequential - File 85/113: Compression completed - Time taken: 0.00s
+Sequential - File 86/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 72
+Sequential - File 86/113: Compression completed - Time taken: 0.00s
+Sequential - File 87/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE copy.html
+Sequential - File 87/113: Compression completed - Time taken: 0.00s
+Sequential - File 88/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 44
+Sequential - File 88/113: Compression completed - Time taken: 0.00s
+Sequential - File 89/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 43
+Sequential - File 89/113: Compression completed - Time taken: 0.00s
+Sequential - File 90/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 88
+Sequential - File 90/113: Compression completed - Time taken: 0.00s
+Sequential - File 91/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 28
+Sequential - File 91/113: Compression completed - Time taken: 0.00s
+Sequential - File 92/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 17
+Sequential - File 92/113: Compression completed - Time taken: 0.00s
+Sequential - File 93/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 10
+Sequential - File 93/113: Compression completed - Time taken: 0.00s
+Sequential - File 94/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 19
+Sequential - File 94/113: Compression completed - Time taken: 0.00s
+Sequential - File 95/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 26
+Sequential - File 95/113: Compression completed - Time taken: 0.00s
+Sequential - File 96/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 21
+Sequential - File 96/113: Compression completed - Time taken: 0.00s
+Sequential - File 97/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 42
+Sequential - File 97/113: Compression completed - Time taken: 0.00s
+Sequential - File 98/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 89
+Sequential - File 98/113: Compression completed - Time taken: 0.00s
+Sequential - File 99/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 45
+Sequential - File 99/113: Compression completed - Time taken: 0.00s
+Sequential - File 100/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 73
+Sequential - File 100/113: Compression completed - Time taken: 0.00s
+Sequential - File 101/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 87
+Sequential - File 101/113: Compression completed - Time taken: 0.00s
+Sequential - File 102/113: Compressing (7.59 MB) data_sm_multi/uncompressed/BidiTest.txt
+Sequential - File 102/113: Compression completed - Time taken: 2.13s
+Sequential - File 103/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE.txt
+Sequential - File 103/113: Compression completed - Time taken: 0.00s
+Sequential - File 104/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 80
+Sequential - File 104/113: Compression completed - Time taken: 0.00s
+Sequential - File 105/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 74
+Sequential - File 105/113: Compression completed - Time taken: 0.00s
+Sequential - File 106/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 20
+Sequential - File 106/113: Compression completed - Time taken: 0.00s
+Sequential - File 107/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 18
+Sequential - File 107/113: Compression completed - Time taken: 0.00s
+Sequential - File 108/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 27
+Sequential - File 108/113: Compression completed - Time taken: 0.00s
+Sequential - File 109/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 11
+Sequential - File 109/113: Compression completed - Time taken: 0.00s
+Sequential - File 110/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 29
+Sequential - File 110/113: Compression completed - Time taken: 0.00s
+Sequential - File 111/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 16
+Sequential - File 111/113: Compression completed - Time taken: 0.00s
+Sequential - File 112/113: Compressing (11.05 MB) data_sm_multi/uncompressed/mapping.txt
+Sequential - File 112/113: Compression completed - Time taken: 0.47s
+Sequential - File 113/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium copy.html
+Sequential - File 113/113: Compression completed - Time taken: 0.22s
+
+Running Parallel Processing (2 workers)...
+Parallel(2) - File 1/113: Compressing (1.67 MB) data_sm_multi/uncompressed/LICENSES.chromium 3.html
+Parallel(2) - File 2/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 3.html
+Parallel(2) - File 2/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 3/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 52
+Parallel(2) - File 3/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 4/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 55
+Parallel(2) - File 4/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 5/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 63
+Parallel(2) - File 1/113: Compression completed - Time taken: 0.05s
+Parallel(2) - File 6/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 64
+Parallel(2) - File 5/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 7/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 90
+Parallel(2) - File 6/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 8/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 30
+Parallel(2) - File 7/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 9/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 37
+Parallel(2) - File 8/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 10/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 9
+Parallel(2) - File 9/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 11/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 7
+Parallel(2) - File 10/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 12/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 39
+Parallel(2) - File 11/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 13/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 2.html
+Parallel(2) - File 12/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 14/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE
+Parallel(2) - File 13/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 15/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 91
+Parallel(2) - File 14/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 16/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 65
+Parallel(2) - File 15/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 17/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 62
+Parallel(2) - File 16/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 18/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium 2.html
+Parallel(2) - File 17/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 19/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 54
+Parallel(2) - File 19/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 20/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 53
+Parallel(2) - File 20/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 21/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 6
+Parallel(2) - File 21/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 22/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 38
+Parallel(2) - File 22/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 23/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 36
+Parallel(2) - File 23/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 24/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 8
+Parallel(2) - File 24/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 25/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 31
+Parallel(2) - File 18/113: Compression completed - Time taken: 0.11s
+Parallel(2) - File 26/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 13
+Parallel(2) - File 25/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 27/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 14
+Parallel(2) - File 26/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 28/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE.html
+Parallel(2) - File 27/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 29/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 22
+Parallel(2) - File 28/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 30/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 25
+Parallel(2) - File 29/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 31/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 85
+Parallel(2) - File 30/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 32/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 71
+Parallel(2) - File 31/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 33/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 76
+Parallel(2) - File 32/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 34/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 82
+Parallel(2) - File 33/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 35/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 49
+Parallel(2) - File 34/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 36/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 40
+Parallel(2) - File 35/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 37/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 47
+Parallel(2) - File 36/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 38/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License copy.html
+Parallel(2) - File 37/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 39/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 78
+Parallel(2) - File 38/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 40/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 24
+Parallel(2) - File 39/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 41/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 23
+Parallel(2) - File 40/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 42/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 15
+Parallel(2) - File 41/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 43/113: Compressing (6.55 MB) data_sm_multi/uncompressed/BidiCharacterTest.txt
+Parallel(2) - File 42/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 44/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 12
+Parallel(2) - File 44/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 45/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 46
+Parallel(2) - File 45/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 46/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 79
+Parallel(2) - File 46/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 47/113: Compressing (3.99 MB) data_sm_multi/uncompressed/cjdict.txt
+Parallel(2) - File 43/113: Compression completed - Time taken: 0.12s
+Parallel(2) - File 48/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 41
+Parallel(2) - File 48/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 49/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 83
+Parallel(2) - File 49/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 50/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 77
+Parallel(2) - File 50/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 51/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 48
+Parallel(2) - File 51/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 52/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 70
+Parallel(2) - File 52/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 53/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 84
+Parallel(2) - File 53/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 54/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 4.html
+Parallel(2) - File 54/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 55/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium.html
+Parallel(2) - File 47/113: Compression completed - Time taken: 0.22s
+Parallel(2) - File 56/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 34
+Parallel(2) - File 56/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 57/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 33
+Parallel(2) - File 57/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 58/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 4
+Parallel(2) - File 58/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 59/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 3
+Parallel(2) - File 55/113: Compression completed - Time taken: 0.11s
+Parallel(2) - File 60/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 69
+Parallel(2) - File 59/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 61/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 56
+Parallel(2) - File 60/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 62/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 51
+Parallel(2) - File 61/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 63/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 58
+Parallel(2) - File 62/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 64/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 67
+Parallel(2) - File 63/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 65/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 93
+Parallel(2) - File 64/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 66/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 94
+Parallel(2) - File 65/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 67/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 60
+Parallel(2) - File 66/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 68/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 2
+Parallel(2) - File 67/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 69/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 5
+Parallel(2) - File 68/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 70/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 32
+Parallel(2) - File 69/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 71/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 35
+Parallel(2) - File 70/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 72/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License 2.html
+Parallel(2) - File 71/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 73/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 61
+Parallel(2) - File 72/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 74/113: Compressing (0.02 MB) data_sm_multi/uncompressed/LICENSE 95
+Parallel(2) - File 73/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 75/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 59
+Parallel(2) - File 74/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 76/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 92
+Parallel(2) - File 75/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 77/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 66
+Parallel(2) - File 76/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 78/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 50
+Parallel(2) - File 77/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 79/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 68
+Parallel(2) - File 78/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 80/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 57
+Parallel(2) - File 79/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 81/113: Compressing (2.39 MB) data_sm_multi/uncompressed/readme.txt
+Parallel(2) - File 80/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 82/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 75
+Parallel(2) - File 82/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 83/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 81
+Parallel(2) - File 83/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 84/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License.html
+Parallel(2) - File 84/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 85/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 86
+Parallel(2) - File 85/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 86/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 72
+Parallel(2) - File 86/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 81/113: Compression completed - Time taken: 0.08s
+Parallel(2) - File 87/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE copy.html
+Parallel(2) - File 88/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 44
+Parallel(2) - File 88/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 89/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 43
+Parallel(2) - File 87/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 90/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 88
+Parallel(2) - File 89/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 91/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 28
+Parallel(2) - File 90/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 92/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 17
+Parallel(2) - File 91/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 93/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 10
+Parallel(2) - File 92/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 94/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 19
+Parallel(2) - File 93/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 95/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 26
+Parallel(2) - File 94/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 96/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 21
+Parallel(2) - File 95/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 97/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 42
+Parallel(2) - File 96/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 98/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 89
+Parallel(2) - File 97/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 99/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 45
+Parallel(2) - File 98/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 100/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 73
+Parallel(2) - File 99/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 101/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 87
+Parallel(2) - File 100/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 102/113: Compressing (7.59 MB) data_sm_multi/uncompressed/BidiTest.txt
+Parallel(2) - File 101/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 103/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE.txt
+Parallel(2) - File 103/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 104/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 80
+Parallel(2) - File 104/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 105/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 74
+Parallel(2) - File 105/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 106/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 20
+Parallel(2) - File 106/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 107/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 18
+Parallel(2) - File 107/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 108/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 27
+Parallel(2) - File 108/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 109/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 11
+Parallel(2) - File 109/113: Compression completed - Time taken: 0.01s
+Parallel(2) - File 110/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 29
+Parallel(2) - File 110/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 111/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 16
+Parallel(2) - File 111/113: Compression completed - Time taken: 0.02s
+Parallel(2) - File 112/113: Compressing (11.05 MB) data_sm_multi/uncompressed/mapping.txt
+Parallel(2) - File 102/113: Compression completed - Time taken: 0.25s
+Parallel(2) - File 113/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium copy.html
+Parallel(2) - File 112/113: Compression completed - Time taken: 0.12s
+Parallel(2) - File 113/113: Compression completed - Time taken: 0.10s
+
+Running Parallel Processing (4 workers)...
+Parallel(4) - File 1/113: Compressing (1.67 MB) data_sm_multi/uncompressed/LICENSES.chromium 3.html
+Parallel(4) - File 2/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 3.html
+Parallel(4) - File 4/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 55
+Parallel(4) - File 3/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 52
+Parallel(4) - File 4/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 5/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 63
+Parallel(4) - File 3/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 2/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 7/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 90
+Parallel(4) - File 6/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 64
+Parallel(4) - File 5/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 8/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 30
+Parallel(4) - File 7/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 9/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 37
+Parallel(4) - File 6/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 10/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 9
+Parallel(4) - File 8/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 11/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 7
+Parallel(4) - File 9/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 12/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 39
+Parallel(4) - File 10/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 13/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 2.html
+Parallel(4) - File 11/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 14/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE
+Parallel(4) - File 1/113: Compression completed - Time taken: 0.09s
+Parallel(4) - File 15/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 91
+Parallel(4) - File 13/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 12/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 16/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 65
+Parallel(4) - File 17/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 62
+Parallel(4) - File 14/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 18/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium 2.html
+Parallel(4) - File 15/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 19/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 54
+Parallel(4) - File 16/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 17/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 20/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 53
+Parallel(4) - File 21/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 6
+Parallel(4) - File 19/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 22/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 38
+Parallel(4) - File 21/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 23/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 36
+Parallel(4) - File 20/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 24/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 8
+Parallel(4) - File 22/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 25/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 31
+Parallel(4) - File 23/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 26/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 13
+Parallel(4) - File 24/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 27/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 14
+Parallel(4) - File 25/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 28/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE.html
+Parallel(4) - File 26/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 29/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 22
+Parallel(4) - File 27/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 30/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 25
+Parallel(4) - File 28/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 31/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 85
+Parallel(4) - File 29/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 32/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 71
+Parallel(4) - File 30/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 33/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 76
+Parallel(4) - File 31/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 34/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 82
+Parallel(4) - File 32/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 35/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 49
+Parallel(4) - File 33/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 36/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 40
+Parallel(4) - File 34/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 37/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 47
+Parallel(4) - File 35/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 38/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License copy.html
+Parallel(4) - File 36/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 39/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 78
+Parallel(4) - File 37/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 40/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 24
+Parallel(4) - File 38/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 41/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 23
+Parallel(4) - File 18/113: Compression completed - Time taken: 0.16s
+Parallel(4) - File 42/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 15
+Parallel(4) - File 39/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 40/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 44/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 12
+Parallel(4) - File 43/113: Compressing (6.55 MB) data_sm_multi/uncompressed/BidiCharacterTest.txt
+Parallel(4) - File 41/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 45/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 46
+Parallel(4) - File 42/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 46/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 79
+Parallel(4) - File 44/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 47/113: Compressing (3.99 MB) data_sm_multi/uncompressed/cjdict.txt
+Parallel(4) - File 45/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 48/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 41
+Parallel(4) - File 46/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 49/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 83
+Parallel(4) - File 48/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 50/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 77
+Parallel(4) - File 49/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 51/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 48
+Parallel(4) - File 50/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 52/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 70
+Parallel(4) - File 51/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 53/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 84
+Parallel(4) - File 52/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 54/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 4.html
+Parallel(4) - File 53/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 55/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium.html
+Parallel(4) - File 54/113: Compression completed - Time taken: 0.09s
+Parallel(4) - File 56/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 34
+Parallel(4) - File 56/113: Compression completed - Time taken: 0.04s
+Parallel(4) - File 57/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 33
+Parallel(4) - File 57/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 58/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 4
+Parallel(4) - File 43/113: Compression completed - Time taken: 0.27s
+Parallel(4) - File 59/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 3
+Parallel(4) - File 58/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 60/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 69
+Parallel(4) - File 59/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 61/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 56
+Parallel(4) - File 55/113: Compression completed - Time taken: 0.19s
+Parallel(4) - File 62/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 51
+Parallel(4) - File 61/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 63/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 58
+Parallel(4) - File 60/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 64/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 67
+Parallel(4) - File 47/113: Compression completed - Time taken: 0.31s
+Parallel(4) - File 65/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 93
+Parallel(4) - File 62/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 66/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 94
+Parallel(4) - File 63/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 64/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 67/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 60
+Parallel(4) - File 68/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 2
+Parallel(4) - File 66/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 65/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 69/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 5
+Parallel(4) - File 70/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 32
+Parallel(4) - File 68/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 71/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 35
+Parallel(4) - File 67/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 72/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License 2.html
+Parallel(4) - File 70/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 73/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 61
+Parallel(4) - File 69/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 71/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 74/113: Compressing (0.02 MB) data_sm_multi/uncompressed/LICENSE 95
+Parallel(4) - File 75/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 59
+Parallel(4) - File 72/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 76/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 92
+Parallel(4) - File 73/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 77/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 66
+Parallel(4) - File 75/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 78/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 50
+Parallel(4) - File 74/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 79/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 68
+Parallel(4) - File 76/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 80/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 57
+Parallel(4) - File 77/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 81/113: Compressing (2.39 MB) data_sm_multi/uncompressed/readme.txt
+Parallel(4) - File 78/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 82/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 75
+Parallel(4) - File 80/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 83/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 81
+Parallel(4) - File 79/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 84/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License.html
+Parallel(4) - File 82/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 85/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 86
+Parallel(4) - File 83/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 86/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 72
+Parallel(4) - File 84/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 87/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE copy.html
+Parallel(4) - File 85/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 88/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 44
+Parallel(4) - File 86/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 89/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 43
+Parallel(4) - File 87/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 90/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 88
+Parallel(4) - File 89/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 88/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 91/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 28
+Parallel(4) - File 92/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 17
+Parallel(4) - File 90/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 93/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 10
+Parallel(4) - File 81/113: Compression completed - Time taken: 0.10s
+Parallel(4) - File 94/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 19
+Parallel(4) - File 91/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 95/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 26
+Parallel(4) - File 92/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 96/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 21
+Parallel(4) - File 93/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 97/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 42
+Parallel(4) - File 94/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 98/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 89
+Parallel(4) - File 95/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 99/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 45
+Parallel(4) - File 96/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 100/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 73
+Parallel(4) - File 98/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 101/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 87
+Parallel(4) - File 97/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 102/113: Compressing (7.59 MB) data_sm_multi/uncompressed/BidiTest.txt
+Parallel(4) - File 99/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 103/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE.txt
+Parallel(4) - File 100/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 104/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 80
+Parallel(4) - File 101/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 105/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 74
+Parallel(4) - File 104/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 106/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 20
+Parallel(4) - File 103/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 107/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 18
+Parallel(4) - File 105/113: Compression completed - Time taken: 0.04s
+Parallel(4) - File 106/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 108/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 27
+Parallel(4) - File 109/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 11
+Parallel(4) - File 107/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 110/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 29
+Parallel(4) - File 109/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 108/113: Compression completed - Time taken: 0.02s
+Parallel(4) - File 111/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 16
+Parallel(4) - File 112/113: Compressing (11.05 MB) data_sm_multi/uncompressed/mapping.txt
+Parallel(4) - File 110/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 113/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium copy.html
+Parallel(4) - File 111/113: Compression completed - Time taken: 0.03s
+Parallel(4) - File 113/113: Compression completed - Time taken: 0.11s
+Parallel(4) - File 102/113: Compression completed - Time taken: 0.21s
+Parallel(4) - File 112/113: Compression completed - Time taken: 0.14s
+
+Running Parallel Processing (8 workers)...
+Parallel(8) - File 1/113: Compressing (1.67 MB) data_sm_multi/uncompressed/LICENSES.chromium 3.html
+Parallel(8) - File 2/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 3.html
+Parallel(8) - File 3/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 52
+Parallel(8) - File 5/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 63
+Parallel(8) - File 4/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 55
+Parallel(8) - File 6/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 64
+Parallel(8) - File 8/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 30
+Parallel(8) - File 7/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 90
+Parallel(8) - File 3/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 2/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 9/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 37
+Parallel(8) - File 10/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 9
+Parallel(8) - File 4/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 6/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 8/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 11/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 7
+Parallel(8) - File 5/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 13/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 2.html
+Parallel(8) - File 12/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 39
+Parallel(8) - File 14/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE
+Parallel(8) - File 7/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 15/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 91
+Parallel(8) - File 10/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 11/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 16/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 65
+Parallel(8) - File 12/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 17/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 62
+Parallel(8) - File 18/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium 2.html
+Parallel(8) - File 13/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 14/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 15/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 19/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 54
+Parallel(8) - File 9/113: Compression completed - Time taken: 0.06s
+Parallel(8) - File 21/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 6
+Parallel(8) - File 20/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 53
+Parallel(8) - File 16/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 22/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 38
+Parallel(8) - File 17/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 23/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 36
+Parallel(8) - File 24/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 8
+Parallel(8) - File 19/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 22/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 1/113: Compression completed - Time taken: 0.14s
+Parallel(8) - File 25/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 31
+Parallel(8) - File 26/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 13
+Parallel(8) - File 27/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 14
+Parallel(8) - File 23/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 21/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 28/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE.html
+Parallel(8) - File 20/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 24/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 29/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 22
+Parallel(8) - File 31/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 85
+Parallel(8) - File 26/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 30/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 25
+Parallel(8) - File 32/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 71
+Parallel(8) - File 25/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 33/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 76
+Parallel(8) - File 27/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 34/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 82
+Parallel(8) - File 29/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 35/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 49
+Parallel(8) - File 28/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 30/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 36/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 40
+Parallel(8) - File 37/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 47
+Parallel(8) - File 31/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 32/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 38/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License copy.html
+Parallel(8) - File 34/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 39/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 78
+Parallel(8) - File 40/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 24
+Parallel(8) - File 33/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 35/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 37/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 42/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 15
+Parallel(8) - File 36/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 41/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 23
+Parallel(8) - File 43/113: Compressing (6.55 MB) data_sm_multi/uncompressed/BidiCharacterTest.txt
+Parallel(8) - File 44/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 12
+Parallel(8) - File 39/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 40/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 45/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 46
+Parallel(8) - File 46/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 79
+Parallel(8) - File 38/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 47/113: Compressing (3.99 MB) data_sm_multi/uncompressed/cjdict.txt
+Parallel(8) - File 42/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 48/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 41
+Parallel(8) - File 41/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 49/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 83
+Parallel(8) - File 44/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 50/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 77
+Parallel(8) - File 46/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 45/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 51/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 48
+Parallel(8) - File 52/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 70
+Parallel(8) - File 48/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 49/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 54/113: Compressing (0.00 MB) data_sm_multi/uncompressed/license 4.html
+Parallel(8) - File 53/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 84
+Parallel(8) - File 50/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 55/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium.html
+Parallel(8) - File 51/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 56/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 34
+Parallel(8) - File 54/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 57/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 33
+Parallel(8) - File 53/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 58/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 4
+Parallel(8) - File 52/113: Compression completed - Time taken: 0.07s
+Parallel(8) - File 59/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 3
+Parallel(8) - File 57/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 60/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 69
+Parallel(8) - File 59/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 61/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 56
+Parallel(8) - File 56/113: Compression completed - Time taken: 0.06s
+Parallel(8) - File 62/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 51
+Parallel(8) - File 60/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 58/113: Compression completed - Time taken: 0.06s
+Parallel(8) - File 64/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 67
+Parallel(8) - File 63/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 58
+Parallel(8) - File 61/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 65/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 93
+Parallel(8) - File 64/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 66/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 94
+Parallel(8) - File 62/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 67/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 60
+Parallel(8) - File 63/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 68/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 2
+Parallel(8) - File 65/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 69/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 5
+Parallel(8) - File 66/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 70/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 32
+Parallel(8) - File 67/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 71/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 35
+Parallel(8) - File 68/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 72/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License 2.html
+Parallel(8) - File 69/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 73/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 61
+Parallel(8) - File 70/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 74/113: Compressing (0.02 MB) data_sm_multi/uncompressed/LICENSE 95
+Parallel(8) - File 71/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 75/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 59
+Parallel(8) - File 72/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 76/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 92
+Parallel(8) - File 73/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 77/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 66
+Parallel(8) - File 74/113: Compression completed - Time taken: 0.06s
+Parallel(8) - File 76/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 78/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 50
+Parallel(8) - File 79/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 68
+Parallel(8) - File 47/113: Compression completed - Time taken: 0.35s
+Parallel(8) - File 18/113: Compression completed - Time taken: 0.54s
+Parallel(8) - File 81/113: Compressing (2.39 MB) data_sm_multi/uncompressed/readme.txt
+Parallel(8) - File 80/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 57
+Parallel(8) - File 77/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 78/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 82/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 75
+Parallel(8) - File 83/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 81
+Parallel(8) - File 79/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 75/113: Compression completed - Time taken: 0.07s
+Parallel(8) - File 84/113: Compressing (0.00 MB) data_sm_multi/uncompressed/api-.License.html
+Parallel(8) - File 80/113: Compression completed - Time taken: 0.02s
+Parallel(8) - File 85/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 86
+Parallel(8) - File 86/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 72
+Parallel(8) - File 82/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 43/113: Compression completed - Time taken: 0.44s
+Parallel(8) - File 88/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 44
+Parallel(8) - File 87/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE copy.html
+Parallel(8) - File 84/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 83/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 89/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 43
+Parallel(8) - File 90/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 88
+Parallel(8) - File 86/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 88/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 87/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 91/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 28
+Parallel(8) - File 92/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 17
+Parallel(8) - File 85/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 93/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 10
+Parallel(8) - File 94/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 19
+Parallel(8) - File 89/113: Compression completed - Time taken: 0.06s
+Parallel(8) - File 81/113: Compression completed - Time taken: 0.12s
+Parallel(8) - File 92/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 96/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 21
+Parallel(8) - File 90/113: Compression completed - Time taken: 0.07s
+Parallel(8) - File 97/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 42
+Parallel(8) - File 98/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 89
+Parallel(8) - File 95/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 26
+Parallel(8) - File 91/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 99/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 45
+Parallel(8) - File 94/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 100/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 73
+Parallel(8) - File 93/113: Compression completed - Time taken: 0.07s
+Parallel(8) - File 101/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 87
+Parallel(8) - File 95/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 97/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 102/113: Compressing (7.59 MB) data_sm_multi/uncompressed/BidiTest.txt
+Parallel(8) - File 96/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 99/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 55/113: Compression completed - Time taken: 0.46s
+Parallel(8) - File 104/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 80
+Parallel(8) - File 103/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE.txt
+Parallel(8) - File 106/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 20
+Parallel(8) - File 100/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 98/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 105/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 74
+Parallel(8) - File 108/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 27
+Parallel(8) - File 107/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 18
+Parallel(8) - File 101/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 109/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 11
+Parallel(8) - File 104/113: Compression completed - Time taken: 0.03s
+Parallel(8) - File 110/113: Compressing (0.00 MB) data_sm_multi/uncompressed/LICENSE 29
+Parallel(8) - File 103/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 111/113: Compressing (0.01 MB) data_sm_multi/uncompressed/LICENSE 16
+Parallel(8) - File 106/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 112/113: Compressing (11.05 MB) data_sm_multi/uncompressed/mapping.txt
+Parallel(8) - File 109/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 108/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 105/113: Compression completed - Time taken: 0.05s
+Parallel(8) - File 113/113: Compressing (6.45 MB) data_sm_multi/uncompressed/LICENSES.chromium copy.html
+Parallel(8) - File 107/113: Compression completed - Time taken: 0.06s
+Parallel(8) - File 110/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 111/113: Compression completed - Time taken: 0.04s
+Parallel(8) - File 102/113: Compression completed - Time taken: 0.22s
+Parallel(8) - File 113/113: Compression completed - Time taken: 0.17s
+Parallel(8) - File 112/113: Compression completed - Time taken: 0.18s
+
+Generating performance report...
+
+Performance Summary:
+--------------------------------------------------
+
+SEQUENTIAL:
+Average time: 5.63s ± 0.08s
+Range: 5.58s - 5.72s
+
+PARALLEL_2:
+Average time: 1.44s ± 0.02s
+Range: 1.43s - 1.46s
+
+PARALLEL_4:
+Average time: 1.07s ± 0.02s
+Range: 1.04s - 1.08s
+
+PARALLEL_8:
+Average time: 1.02s ± 0.02s
+Range: 1.00s - 1.05s
+
+Speedup Ratios:
+--------------------------------------------------
+parallel_2: 3.90x faster than sequential
+parallel_4: 5.29x faster than sequential
+parallel_8: 5.50x faster than sequential
+
+python-threading on  main [!?] via 🐍 v3.12.1 took 29s 
+❯                                                                     

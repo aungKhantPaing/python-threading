@@ -1,0 +1,379 @@
+
+python-threading on  main [!?] via 🐍 v3.12.1 
+❯ python main.py data_text/uncompressed data_text/compressed
+Starting benchmark tests...
+
+Number of files: 10
+Number of workers: [2, 4, 8, 10]
+Benchmark results: {'sequential': [], 'parallel_2': [], 'parallel_4': [], 'parallel_8': [], 'parallel_10': []}
+
+Benchmark Run 1/3
+
+Running Sequential Processing...
+Sequential - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Sequential - File 1/10: Compression completed - Time taken: 2.65s
+Sequential - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Sequential - File 2/10: Compression completed - Time taken: 2.63s
+Sequential - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Sequential - File 3/10: Compression completed - Time taken: 2.63s
+Sequential - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Sequential - File 4/10: Compression completed - Time taken: 2.62s
+Sequential - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Sequential - File 5/10: Compression completed - Time taken: 2.61s
+Sequential - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Sequential - File 6/10: Compression completed - Time taken: 2.64s
+Sequential - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Sequential - File 7/10: Compression completed - Time taken: 2.72s
+Sequential - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Sequential - File 8/10: Compression completed - Time taken: 2.67s
+Sequential - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Sequential - File 9/10: Compression completed - Time taken: 2.56s
+Sequential - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Sequential - File 10/10: Compression completed - Time taken: 2.57s
+
+Running Parallel Processing (2 workers)...
+Parallel(2) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(2) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(2) - File 2/10: Compression completed - Time taken: 1.13s
+Parallel(2) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(2) - File 1/10: Compression completed - Time taken: 1.14s
+Parallel(2) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(2) - File 4/10: Compression completed - Time taken: 1.12s
+Parallel(2) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(2) - File 3/10: Compression completed - Time taken: 1.14s
+Parallel(2) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(2) - File 5/10: Compression completed - Time taken: 1.12s
+Parallel(2) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(2) - File 6/10: Compression completed - Time taken: 1.14s
+Parallel(2) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(2) - File 7/10: Compression completed - Time taken: 1.17s
+Parallel(2) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(2) - File 8/10: Compression completed - Time taken: 1.16s
+Parallel(2) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(2) - File 9/10: Compression completed - Time taken: 1.11s
+Parallel(2) - File 10/10: Compression completed - Time taken: 1.11s
+
+Running Parallel Processing (4 workers)...
+Parallel(4) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(4) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(4) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(4) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(4) - File 2/10: Compression completed - Time taken: 2.19s
+Parallel(4) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(4) - File 1/10: Compression completed - Time taken: 2.20s
+Parallel(4) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(4) - File 4/10: Compression completed - Time taken: 2.20s
+Parallel(4) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(4) - File 3/10: Compression completed - Time taken: 2.20s
+Parallel(4) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(4) - File 7/10: Compression completed - Time taken: 2.13s
+Parallel(4) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(4) - File 5/10: Compression completed - Time taken: 2.14s
+Parallel(4) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(4) - File 6/10: Compression completed - Time taken: 2.14s
+Parallel(4) - File 8/10: Compression completed - Time taken: 2.13s
+Parallel(4) - File 9/10: Compression completed - Time taken: 1.12s
+Parallel(4) - File 10/10: Compression completed - Time taken: 1.12s
+
+Running Parallel Processing (8 workers)...
+Parallel(8) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(8) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(8) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(8) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(8) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(8) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(8) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(8) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(8) - File 1/10: Compression completed - Time taken: 4.37s
+Parallel(8) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(8) - File 3/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 2/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(8) - File 6/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 8/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 4/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 5/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 7/10: Compression completed - Time taken: 4.38s
+Parallel(8) - File 9/10: Compression completed - Time taken: 1.17s
+Parallel(8) - File 10/10: Compression completed - Time taken: 1.17s
+
+Running Parallel Processing (10 workers)...
+Parallel(10) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(10) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(10) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(10) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(10) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(10) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(10) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(10) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(10) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(10) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(10) - File 6/10: Compression completed - Time taken: 6.76s
+Parallel(10) - File 9/10: Compression completed - Time taken: 6.82s
+Parallel(10) - File 1/10: Compression completed - Time taken: 6.84s
+Parallel(10) - File 10/10: Compression completed - Time taken: 6.82s
+Parallel(10) - File 8/10: Compression completed - Time taken: 6.83s
+Parallel(10) - File 2/10: Compression completed - Time taken: 6.84s
+Parallel(10) - File 5/10: Compression completed - Time taken: 6.84s
+Parallel(10) - File 3/10: Compression completed - Time taken: 6.84s
+Parallel(10) - File 4/10: Compression completed - Time taken: 6.85s
+Parallel(10) - File 7/10: Compression completed - Time taken: 6.85s
+
+Benchmark Run 2/3
+
+Running Sequential Processing...
+Sequential - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Sequential - File 1/10: Compression completed - Time taken: 4.00s
+Sequential - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Sequential - File 2/10: Compression completed - Time taken: 3.14s
+Sequential - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Sequential - File 3/10: Compression completed - Time taken: 2.63s
+Sequential - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Sequential - File 4/10: Compression completed - Time taken: 2.81s
+Sequential - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Sequential - File 5/10: Compression completed - Time taken: 2.81s
+Sequential - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Sequential - File 6/10: Compression completed - Time taken: 2.59s
+Sequential - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Sequential - File 7/10: Compression completed - Time taken: 2.58s
+Sequential - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Sequential - File 8/10: Compression completed - Time taken: 2.56s
+Sequential - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Sequential - File 9/10: Compression completed - Time taken: 2.57s
+Sequential - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Sequential - File 10/10: Compression completed - Time taken: 2.55s
+
+Running Parallel Processing (2 workers)...
+Parallel(2) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(2) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(2) - File 1/10: Compression completed - Time taken: 1.12s
+Parallel(2) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(2) - File 2/10: Compression completed - Time taken: 1.14s
+Parallel(2) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(2) - File 3/10: Compression completed - Time taken: 1.08s
+Parallel(2) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(2) - File 4/10: Compression completed - Time taken: 1.08s
+Parallel(2) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(2) - File 5/10: Compression completed - Time taken: 1.09s
+Parallel(2) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(2) - File 6/10: Compression completed - Time taken: 1.09s
+Parallel(2) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(2) - File 7/10: Compression completed - Time taken: 1.17s
+Parallel(2) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(2) - File 8/10: Compression completed - Time taken: 1.15s
+Parallel(2) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(2) - File 9/10: Compression completed - Time taken: 1.12s
+Parallel(2) - File 10/10: Compression completed - Time taken: 1.12s
+
+Running Parallel Processing (4 workers)...
+Parallel(4) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(4) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(4) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(4) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(4) - File 3/10: Compression completed - Time taken: 2.21s
+Parallel(4) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(4) - File 4/10: Compression completed - Time taken: 2.21s
+Parallel(4) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(4) - File 2/10: Compression completed - Time taken: 2.22s
+Parallel(4) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(4) - File 1/10: Compression completed - Time taken: 2.22s
+Parallel(4) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(4) - File 8/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(4) - File 6/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(4) - File 5/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 7/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 10/10: Compression completed - Time taken: 1.18s
+Parallel(4) - File 9/10: Compression completed - Time taken: 1.19s
+
+Running Parallel Processing (8 workers)...
+Parallel(8) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(8) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(8) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(8) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(8) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(8) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(8) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(8) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(8) - File 1/10: Compression completed - Time taken: 4.75s
+Parallel(8) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(8) - File 2/10: Compression completed - Time taken: 4.77s
+Parallel(8) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(8) - File 7/10: Compression completed - Time taken: 4.80s
+Parallel(8) - File 6/10: Compression completed - Time taken: 4.80s
+Parallel(8) - File 5/10: Compression completed - Time taken: 4.82s
+Parallel(8) - File 8/10: Compression completed - Time taken: 4.87s
+Parallel(8) - File 3/10: Compression completed - Time taken: 4.87s
+Parallel(8) - File 4/10: Compression completed - Time taken: 4.88s
+Parallel(8) - File 9/10: Compression completed - Time taken: 1.63s
+Parallel(8) - File 10/10: Compression completed - Time taken: 1.62s
+
+Running Parallel Processing (10 workers)...
+Parallel(10) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(10) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(10) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(10) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(10) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(10) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(10) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(10) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(10) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(10) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(10) - File 8/10: Compression completed - Time taken: 7.91s
+Parallel(10) - File 4/10: Compression completed - Time taken: 7.91s
+Parallel(10) - File 10/10: Compression completed - Time taken: 7.91s
+Parallel(10) - File 3/10: Compression completed - Time taken: 7.92s
+Parallel(10) - File 6/10: Compression completed - Time taken: 7.96s
+Parallel(10) - File 7/10: Compression completed - Time taken: 7.96s
+Parallel(10) - File 1/10: Compression completed - Time taken: 7.97s
+Parallel(10) - File 9/10: Compression completed - Time taken: 7.97s
+Parallel(10) - File 5/10: Compression completed - Time taken: 7.98s
+Parallel(10) - File 2/10: Compression completed - Time taken: 7.98s
+
+Benchmark Run 3/3
+
+Running Sequential Processing...
+Sequential - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Sequential - File 1/10: Compression completed - Time taken: 3.54s
+Sequential - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Sequential - File 2/10: Compression completed - Time taken: 2.65s
+Sequential - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Sequential - File 3/10: Compression completed - Time taken: 2.55s
+Sequential - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Sequential - File 4/10: Compression completed - Time taken: 2.53s
+Sequential - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Sequential - File 5/10: Compression completed - Time taken: 2.53s
+Sequential - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Sequential - File 6/10: Compression completed - Time taken: 2.55s
+Sequential - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Sequential - File 7/10: Compression completed - Time taken: 2.66s
+Sequential - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Sequential - File 8/10: Compression completed - Time taken: 2.61s
+Sequential - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Sequential - File 9/10: Compression completed - Time taken: 2.57s
+Sequential - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Sequential - File 10/10: Compression completed - Time taken: 2.57s
+
+Running Parallel Processing (2 workers)...
+Parallel(2) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(2) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(2) - File 2/10: Compression completed - Time taken: 1.09s
+Parallel(2) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(2) - File 1/10: Compression completed - Time taken: 1.12s
+Parallel(2) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(2) - File 3/10: Compression completed - Time taken: 1.07s
+Parallel(2) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(2) - File 4/10: Compression completed - Time taken: 1.07s
+Parallel(2) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(2) - File 5/10: Compression completed - Time taken: 1.16s
+Parallel(2) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(2) - File 6/10: Compression completed - Time taken: 1.14s
+Parallel(2) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(2) - File 7/10: Compression completed - Time taken: 1.11s
+Parallel(2) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(2) - File 8/10: Compression completed - Time taken: 1.10s
+Parallel(2) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(2) - File 9/10: Compression completed - Time taken: 1.20s
+Parallel(2) - File 10/10: Compression completed - Time taken: 1.20s
+
+Running Parallel Processing (4 workers)...
+Parallel(4) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(4) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(4) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(4) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(4) - File 2/10: Compression completed - Time taken: 2.16s
+Parallel(4) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(4) - File 1/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(4) - File 4/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(4) - File 3/10: Compression completed - Time taken: 2.18s
+Parallel(4) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(4) - File 5/10: Compression completed - Time taken: 2.26s
+Parallel(4) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(4) - File 7/10: Compression completed - Time taken: 2.26s
+Parallel(4) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(4) - File 8/10: Compression completed - Time taken: 2.26s
+Parallel(4) - File 6/10: Compression completed - Time taken: 2.27s
+Parallel(4) - File 9/10: Compression completed - Time taken: 1.17s
+Parallel(4) - File 10/10: Compression completed - Time taken: 1.16s
+
+Running Parallel Processing (8 workers)...
+Parallel(8) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(8) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(8) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(8) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(8) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(8) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(8) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(8) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(8) - File 7/10: Compression completed - Time taken: 4.86s
+Parallel(8) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(8) - File 2/10: Compression completed - Time taken: 4.88s
+Parallel(8) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(8) - File 4/10: Compression completed - Time taken: 4.88s
+Parallel(8) - File 3/10: Compression completed - Time taken: 4.89s
+Parallel(8) - File 1/10: Compression completed - Time taken: 4.89s
+Parallel(8) - File 8/10: Compression completed - Time taken: 4.89s
+Parallel(8) - File 6/10: Compression completed - Time taken: 4.89s
+Parallel(8) - File 5/10: Compression completed - Time taken: 4.89s
+Parallel(8) - File 10/10: Compression completed - Time taken: 1.62s
+Parallel(8) - File 9/10: Compression completed - Time taken: 1.65s
+
+Running Parallel Processing (10 workers)...
+Parallel(10) - File 1/10: Compressing (71.52 MB) data_text/uncompressed/random_text_9.txt
+Parallel(10) - File 2/10: Compressing (71.52 MB) data_text/uncompressed/random_text_8.txt
+Parallel(10) - File 4/10: Compressing (71.52 MB) data_text/uncompressed/random_text_7.txt
+Parallel(10) - File 3/10: Compressing (71.53 MB) data_text/uncompressed/random_text_6.txt
+Parallel(10) - File 5/10: Compressing (71.53 MB) data_text/uncompressed/random_text_5.txt
+Parallel(10) - File 6/10: Compressing (71.53 MB) data_text/uncompressed/random_text_4.txt
+Parallel(10) - File 7/10: Compressing (71.51 MB) data_text/uncompressed/random_text_0.txt
+Parallel(10) - File 8/10: Compressing (71.52 MB) data_text/uncompressed/random_text_1.txt
+Parallel(10) - File 9/10: Compressing (71.52 MB) data_text/uncompressed/random_text_3.txt
+Parallel(10) - File 10/10: Compressing (71.52 MB) data_text/uncompressed/random_text_2.txt
+Parallel(10) - File 8/10: Compression completed - Time taken: 8.18s
+Parallel(10) - File 3/10: Compression completed - Time taken: 8.19s
+Parallel(10) - File 2/10: Compression completed - Time taken: 8.19s
+Parallel(10) - File 10/10: Compression completed - Time taken: 8.19s
+Parallel(10) - File 5/10: Compression completed - Time taken: 8.21s
+Parallel(10) - File 1/10: Compression completed - Time taken: 8.22s
+Parallel(10) - File 7/10: Compression completed - Time taken: 8.21s
+Parallel(10) - File 6/10: Compression completed - Time taken: 8.22s
+Parallel(10) - File 9/10: Compression completed - Time taken: 8.22s
+Parallel(10) - File 4/10: Compression completed - Time taken: 8.23s
+
+Generating performance report...
+
+Performance Summary:
+--------------------------------------------------
+
+SEQUENTIAL:
+Average time: 27.11s ± 1.02s
+Range: 26.30s - 28.25s
+
+PARALLEL_2:
+Average time: 5.63s ± 0.05s
+Range: 5.58s - 5.68s
+
+PARALLEL_4:
+Average time: 5.54s ± 0.08s
+Range: 5.45s - 5.60s
+
+PARALLEL_8:
+Average time: 6.15s ± 0.52s
+Range: 5.55s - 6.51s
+
+PARALLEL_10:
+Average time: 7.69s ± 0.74s
+Range: 6.85s - 8.23s
+
+Speedup Ratios:
+--------------------------------------------------
+parallel_2: 4.81x faster than sequential
+parallel_4: 4.89x faster than sequential
+parallel_8: 4.41x faster than sequential
+parallel_10: 3.53x faster than sequential
+
+python-threading on  main [!?] via 🐍 v3.12.1 took 2m38s 
+❯ 
