@@ -1,0 +1,2 @@
+matplotlib==3.9.2
+pygz==1.0.1
